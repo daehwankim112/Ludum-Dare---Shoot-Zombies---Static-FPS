@@ -161,6 +161,7 @@ public class Restart : MonoBehaviour
                 restartUI.SetActive(false);
                 veryFirstIteration = false;
                 startButton = false;
+                restartButton = false;
                 //Debug.Log("Phase5");
                 //Lerp should be used
                 //New terrain generation
