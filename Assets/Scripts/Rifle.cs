@@ -93,6 +93,7 @@ public class Rifle : MonoBehaviour
             else if (UIButton != null)
             {
                 UIButton.buttonShot();
+                UIButton = null;
             }
         }
         Array.Clear(killList, 0, killList.Length);

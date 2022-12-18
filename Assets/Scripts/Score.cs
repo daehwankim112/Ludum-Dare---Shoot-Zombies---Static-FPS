@@ -15,12 +15,20 @@ public class Score : MonoBehaviour
 
     }
 
+    private void Awake()
+    {
+        textMesh = GetComponent<TMP_Text>();
+    }
+
     private void Update()
     {
-        //textMesh.text = spawner.GetComponent<Spawner>().score.ToString();
+        // Get Score
+        score = spawner.GetComponent<Spawner>().score;
+        textMesh.text = "" + score;
+
         if (VRrig.GetComponent<Restart>().restartButton)
         {
-            score = 0;
+            spawner.GetComponent<Spawner>().score = 0;
         }
     }
 }
