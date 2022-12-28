@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7uyGG5ffw5o&ab_channel=DaeKim/0.jpg)](https://www.youtube.com/watch?v=7uyGG5ffw5o&ab_channel=DaeKim)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7uyGG5ffw5o/0.jpg)](https://www.youtube.com/watch?v=7uyGG5ffw5o)
 # Ludum-Dare---Shoot-Zombies---Static-FPS
  Unity Quest VR FPS Zombie Defense Game. It was for 2022 LudumDare in Oct 1st.
 
