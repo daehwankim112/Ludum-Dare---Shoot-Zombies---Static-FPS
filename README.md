@@ -1,4 +1,4 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7uyGG5ffw5o/0.jpg)](https://www.youtube.com/watch?v=7uyGG5ffw5o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7uyGG5ffw5o/0.jpg)](https://www.youtube.com/watch?v=7uyGG5ffw5o) </br >
 _Click the image to play video on Youtube_
 
 # Ludum-Dare---Shoot-Zombies---Static-FPS
