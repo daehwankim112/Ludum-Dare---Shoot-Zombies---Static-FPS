@@ -23,7 +23,7 @@ Download exe file and run "Ludum-Dare---Shoot-Zombies---Static-FPS.exe"
 * Shoot restart to restart
 
 ## Contact
-kdw8731@gmail.com
+kdw8731@gmail.com </br >
 https://daehwankim112.github.io/
 
 ### More information can be found here
